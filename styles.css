@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap");
+
+body {
+  background-color: #635666;
+}
+
+h3 {
+  font-family: "Caveat", cursive;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  margin-bottom: 10%;
+}
+
+img {
+  height: auto;
+  width: 200px;
+}
+
+p {
+  color: #fff;
+}
+
+.heading {
+  color: #00ffab;
+  font-size: 7rem;
+  text-align: center;
+  padding: 3% 7%;
+  font-family: "Lobster", cursive;
+  letter-spacing: 0.5rem;
+}
+
+/* DICE SECTION */
+
+.container {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.dice {
+  color: aliceblue;
+  display: inline-block;
+  padding: 5% 2%;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 30%;
+  color: #eeeeee;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 13px;
+  padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    width: 150px;
+  }
+
+  .heading {
+    padding-top: 6%;
+    font-size: 3rem;
+  }
+}
