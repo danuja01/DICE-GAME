@@ -9,7 +9,7 @@ Javascript, HTML, CSS, Bootstrap 5
 
 ## Description
 A JS based dice roller that can roll various types of dice and modifiers, along with mathematical equations.
-Live Demo : https://danuja01.github.io/DICE-GAME/
+<br>Live Demo : https://danuja01.github.io/DICE-GAME/
 ## Contributing
 
 We're always happy for community contributions.
